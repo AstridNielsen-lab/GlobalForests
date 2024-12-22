@@ -11,7 +11,7 @@ export default function Navbar() {
             <span className="ml-2 text-xl font-bold text-gray-900">GlobalForests</span>
           </div>
           <div className="hidden md:flex items-center space-x-8">
-            <a href="#about" className="text-gray-700 hover:text-green-600">About</a>
+            <a href="https://radiotatuapefm.pythonanywhere.com" className="text-gray-700 hover:text-green-600">About</a>
             <a href="#impact" className="text-gray-700 hover:text-green-600">Impact</a>
             <a href="#process" className="text-gray-700 hover:text-green-600">Process</a>
             <button className="bg-green-600 text-white px-6 py-2 rounded-full hover:bg-green-700 transition-colors">
