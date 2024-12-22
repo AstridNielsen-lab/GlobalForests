@@ -23,9 +23,14 @@ export default function Hero() {
             <button className="bg-green-600 text-white px-8 py-3 rounded-full text-lg font-semibold hover:bg-green-700 transition-colors">
               Make a Donation
             </button>
-            <button className="bg-white text-green-600 px-8 py-3 rounded-full text-lg font-semibold hover:bg-gray-100 transition-colors">
+            <a 
+              href="https://radiotatuapefm.pythonanywhere.com/" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="bg-white text-green-600 px-8 py-3 rounded-full text-lg font-semibold hover:bg-gray-100 transition-colors text-center"
+            >
               Learn More
-            </button>
+            </a>
           </div>
         </div>
       </div>
