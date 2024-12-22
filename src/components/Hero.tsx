@@ -31,6 +31,14 @@ export default function Hero() {
             >
               Learn More
             </a>
+            <a 
+              href="https://x.com/Global_Forests" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="bg-white text-green-600 px-8 py-3 rounded-full text-lg font-semibold hover:bg-gray-100 transition-colors text-center"
+            >
+              X account
+            </a>
           </div>
         </div>
       </div>
