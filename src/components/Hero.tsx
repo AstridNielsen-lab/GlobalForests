@@ -6,7 +6,7 @@ export default function Hero() {
       <div 
         className="absolute inset-0 bg-cover bg-center"
         style={{
-          backgroundImage: 'url("https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&q=80")',
+          backgroundImage: 'url("https://github.com/AstridNielsen-lab/GlobalForests/blob/main/globalforests%20fundo.gif?raw=true?auto=format&fit=crop&q=80")',
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
@@ -39,17 +39,6 @@ export default function Hero() {
             >
               X account
             </a>
-             <a 
-              href="https://www.chatpdf.com/pt/c/I93TAyrX7w7w8ufIFomWm" 
-              target="_blank" 
-              rel="noopener noreferrer" 
-              className="bg-white text-green-600 px-8 py-3 rounded-full text-lg font-semibold hover:bg-gray-100 transition-colors text-center"
-            >
-              Project Details
-            </a>
-
-
-            
           </div>
         </div>
       </div>
