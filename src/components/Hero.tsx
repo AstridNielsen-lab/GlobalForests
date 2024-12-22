@@ -39,6 +39,17 @@ export default function Hero() {
             >
               X account
             </a>
+             <a 
+              href="https://www.chatpdf.com/pt/c/I93TAyrX7w7w8ufIFomWm" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="bg-white text-green-600 px-8 py-3 rounded-full text-lg font-semibold hover:bg-gray-100 transition-colors text-center"
+            >
+              Project Details
+            </a>
+
+
+            
           </div>
         </div>
       </div>
